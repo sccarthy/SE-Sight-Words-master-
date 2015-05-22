@@ -1,0 +1,93 @@
+API DISTRIBUTION AGREEMENT
+
+This API distribution agreement (hereinafter referred to as “this Agreement”) is an offer made by ABBYY Solutions Limited (hereinafter referred to as “ABBYY”) to an indefinite group of persons to enter into an agreement on the use of the ABBYY Lingvo API for Android on the terms set forth below.
+
+1. INTERPRETATION
+
+1.1. “API” means the ABBYY Lingvo API for Android program for mobile devices, running the Android operating system, which consists of a set of tools to be used by the Developer in external Applications. A description of the API, its capabilities, and recommendations for use are available at http://www.abbyy.com/lingvo_android/api .
+
+1.2. “Application” (“Applications”) means the Developer’s program for mobile devices, running the Android operating system that uses the API to communicate and operate in conjunction with Lingvo. 
+
+1.3. “Lingvo” means the program for mobile devices, running the Android operating system that uses the ABBYY Lingvo databases (i.e. dictionaries).
+
+1.4. “Developer” means any person that has entered into an agreement with ABBYY, under the terms of this Agreement, for his own benefit, and in compliance with the requirements of applicable law and this Agreement.
+
+1.5. “End User” means any person that uses the Developer’s Application integrated with Lingvo by means of the API.
+
+2. GENERAL PROVISIONS
+
+2.1. Any use of the API, including development, implementation, and/or ensuring the operation of the API in Applications, creates a license agreement on the terms of this Agreement. By using the API or any functionality provided by the API, the Developer agrees to be bound by all of the terms of this Agreement API.
+
+2.2. The use of the API by the Developer shall be governed by this Agreement.
+
+2.3. The Developer shall read and understand the above-mentioned documents and shall bear all risk of failure to read and understand the above-mentioned documents.
+
+3. GRANT OF LICENSE
+
+3.1. Provided that the Developer agrees to be bound by all of the terms of this Agreement, ABBYY grants the Developer, at no charge, a simple non-exclusive license to use the API on the terms set forth in this Agreement. ABBYY does not grant the Developer any exclusive rights to the API.
+
+3.2. The Developer may use the functionality of the API solely for the purpose of integrating the Application with Lingvo, without any restrictions as to the territory or period of use.
+
+3.3. The Developer may use the API integrated into the Applications, without any restrictions as to the methods of use. The Developer may reproduce, distribute, and import the API integrated into the Applications. The Developer may not modify the API.
+
+3.4. The Developer may make commercial use of the API only if the API is used in conjunction with Applications and Lingvo and for their intended purpose, provided that the Developer fully complies with the requirements of this Agreement.
+
+3.5. The right to use the API is provided to the Developer free of charge for purposes of extending the functionality of Applications through their integration with Lingvo by means of the API, adding value to Applications and Lingvo, and increasing the number of End Users of Applications and Lingvo.
+
+3.6. The Developer may not transfer any of his rights and obligations under this Agreement without the prior written consent of ABBYY and attempt to do so shall null and void.
+
+4. TERMS OF USE
+
+4.1. If the Developer completes the registration form at http://www.abbyy.com/lingvo_android/api/register, the Developer may access the file archive containing the API that is available on ABBYY’s websites and use the file archive under the terms of a license agreement concluded with ABBYY subsequent to this Agreement.
+
+4.2. The license agreement concluded under the terms of this Agreement shall be deemed concluded on the day when the Developer is granted access to the file archive containing the API subsequent to the Developer’s completion of the registration form.
+
+4.3. The registration information shall include the following details: second name, first name, e-mail address, telephone number, company or Developer’s name in Google Play, and the Developer’s country of residence.
+
+4.4. The Developer shall provide accurate and complete information about himself as required by the registration form and shall bear the risk of being denied access to the file archive containing the API and technical support from ABBYY if the Developer provides inaccurate or incomplete information about himself during registration.
+
+4.5. The Developer shall be responsible for the completeness and accuracy of the information (including personal information) provided during registration. In the event of change in the information provided during registration, the Developer shall notify ABBYY about the change.
+
+4.6. The Developer may use any design for the API integrated in Applications, provided the following requirements are met:
+
+4.6.1. The Developer shall put the text “This application uses the ABBYY Lingvo API” in the “About” section of the Developer’s Application(s), providing a link to the description of Lingvo in Google Play at  https://play.google.com/store/apps/details?id=com.abbyy.mobile.lingvo.market .
+
+4.6.2. The developer may place the notice specified in 4.6.1 in any marketing materials related to the Applications, including the descriptions of the Applications in Google Play (Android Market), on the promotional pages of the Developer’s website, and in similar materials.
+
+4.7. The Developer hereby agrees that ABBYY may use the Developer’s name and the names of the Developer’s Applications in its marketing materials, including on ABBYY’s websites.
+
+4.8. ABBYY will provide support for the API to registered Developers under the technical support policy published at http://www.abbyy.ru/support/policy/  or http://www.abbyy.com/support/policy/. Under no circumstances shall ABBYY provide any services or technical support to End Users.
+
+5. NO WARRANTIES. LIMITATION OF LIABILITY
+
+5.1. The API is provided “as is”. ABBYY does not warrant that the API will meet the developer’s expectations or fit Developer’s purpose, or that the API will operate without errors or failures either in general or when integrated into Applications.
+
+5.2. ABBYY does not perform checks and/or executes any other control over the results of the operation of the API and does not warrant that information contained in such results is accurate, complete or of good quality, or that the information does not violate applicable law or rights of third parties. Under no circumstances shall ABBYY be liable for information contained in the results of the operation of the API. Any disputes, questions, claims or suits in connection with the content, form, distribution or other use of the API shall be addressed to the Developer.
+
+5.3. ABBYY shall not be liable for any direct or indirect damage caused to the Developer or third parties as a result of using and/or inability to use the API or information contained in the results of the operation of the API.
+
+5.4. ABBYY may make changes to the API at any time and at its option without prior notice to the Developer. 
+
+5.5. ABBYY may announce the release of a new version of the API on its websites. ABBYY does not warrant that an old version of the API will operate without failures, or that ABBYY will continue to provide support for an old version. If the Developer does not wish to use a modified or updated version of the API, the Developer shall cease all use of the API by ceasing to distribute and use the Applications containing the API.
+
+5.6. Whereas ABBYY constantly improves and updates the API, the types, form, and character of its functionality may change from time to time without prior notice to the Developer. ABBYY may, at its option, cease or pause the distribution of the API to all Developers or to one particular Developer, or modify or revoke a license to use the API without prior notice and without a refund of any kind.
+
+5.7. The Developer is solely responsible for the operation and commercial effectiveness of the use of the API on its own or when integrated into Applications, for the quality of the computer devices on which the API is used, and for the quality of the services provided by using the API, including support of End Users of Applications. Under no circumstances shall ABBYY be responsible for providing End Users with the API or Applications containing the API or for providing services based on the API or Applications.
+
+6. MISCELLANEOUS
+
+6.1. ABBYY may, at any time and without prior notice to the Developer, modify the terms of this Agreement. The text of this Agreement currently in effect is published at http://www.abbyy.com/lingvo_android/api/agreement . The Developer bears the risk of failure to read and understand the latest version of this Agreement. By continuing to use the API after changes to the regulating documents the Developer agrees to the terms of the new versions.
+
+6.2. The Developer agrees that ABBYY may use the information provided during registration, as well as collect, systematize, store, update, modify, distribute, transfer, depersonalize, block, or destroy such information. The information provided by the Developer during registration will be stored and used only within the group of ABBYY companies and will not be disclosed to any third party.
+
+6.3. ABBYY may assign its rights and obligations under this Agreement to a third party without the Developer’s consent.
+
+6.4. This Agreement shall be governed by and construed in accordance with the laws of the Republic of Cyprus without giving effect to the rules or principles of conflict of laws thereof.
+
+6.5. Any dispute, controversy or claim which may arise out of or in connection with this Agreement, or performance, breach, termination or invalidity thereof, shall be settled by an arbitrator in Cyprus who will be appointed by both parties. In case of disagreement as to the arbitrator, the parties agree to appoint Mr. Theodoulos Montis (ID153873) as arbitrator. Furthermore, the rules of the Republic of Cyprus regarding appointment of arbitrators, procedure of arbitration and all other matters of arbitration will apply.
+
+6.6. ABBYY may unilaterally terminate this Agreement at any time, including in the event of breach by the developer of any of its provisions.
+
+6.7. The Developer may contact ABBYY by sending an e-mail message to this address: lingvo.android.api@abbyy.com. ABBYY may contact the Developer by sending an e-mail message to the address provided by the Developer during registration.
+
+6.8. The parties shall pursue the following procedure to resolve any dispute arising out of this Agreement. If the Developer has reasons to believe that its rights and interests have been compromised in connection with this Agreement, the Developer shall present a claim to ABBYY by sending it to  lingvo.android.api@abbyy.com . Within twenty (20) working days from receipt of the claim, ABBYY shall send a reply to the Developer at the address provided by the Developer during registration. ABBYY shall not respond to anonymous claims which do not allow identifying the user based on his registration information.

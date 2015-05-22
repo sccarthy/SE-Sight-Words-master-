@@ -1,0 +1,92 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="wrap_content"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainMenu"
+    android:background="@drawable/classroom"
+    android:gravity="clip_horizontal"
+    style="@android:style/Theme.NoTitleBar"
+    android:id="@+id/rel_layout">
+
+    <allent23.sightwords.WritingBoard
+        android:id="@+id/drawing"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="0.54"
+        android:background="@drawable/lines"
+        android:layout_below="@+id/question_playboi"
+        android:layout_alignParentEnd="true" />
+  
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/question"
+        android:id="@+id/question"
+        android:textStyle="bold|italic"
+        android:textSize="60sp"
+        style="@style/Base.Theme.AppCompat.Light.DarkActionBar"
+        android:textAllCaps="false"
+        android:textAlignment="center"
+        android:textColor="#ffffffff"
+        android:contentDescription="question"
+        android:background="@drawable/kidsboard"
+        android:gravity="center"
+        android:singleLine="true"
+        android:paddingTop="60dp"
+        android:focusable="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignEnd="@+id/next"
+        android:layout_alignParentStart="true" />
+
+
+
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/home"
+        android:background="@drawable/home"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentEnd="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/next"
+        android:background="@drawable/new_next"
+        android:layout_alignParentBottom="true"
+        android:layout_alignTop="@+id/back"
+        android:layout_alignEnd="@+id/drawing" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/back"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="false"
+        android:background="@drawable/new_back" />
+
+    <Button
+        android:layout_width="48dp"
+        android:layout_height="67dp"
+        android:id="@+id/question_playboi"
+        android:background="@android:drawable/ic_media_play"
+        android:layout_alignBottom="@+id/question"
+        android:layout_toStartOf="@+id/next"
+        android:layout_alignEnd="@+id/drawing" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/clear"
+        android:layout_below="@+id/drawing"
+        android:layout_centerHorizontal="true"
+        android:text="clear" />
+
+
+</RelativeLayout>

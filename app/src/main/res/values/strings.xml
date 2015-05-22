@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SightWords</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titlename">Sight Words</string>
+    <string name="input_button">Input Words</string>
+    <string name="flash_button">Flash Cards</string>
+    <string name="writing_button">Writing Board</string>
+    <string name="quiz_button">Quiz</string>
+    <string name="flashcard_sightword">SIGHT WORD</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="question">word</string>
+    <string name="answer">Insert Options</string>
+    <string name="playbutton">play button</string>
+
+    <!-- Antony's String Section -->
+    <string name="applywords">Apply</string> <!-- Apply words button for input text -->
+    <string name="add">Add Word</string> <!-- Add button for input text -->
+    <string name="delete">Delete</string> <!-- Delete button for input text -->
+    <string name="inputwords_title">Input Words</string> <!-- Input words title -->
+    <string name="inputwords_hint">Insert Word</string>
+    <string name="ok">Yes, Please!</string>
+    <string name="cancel">No, Thank you!</string>
+    <string name="dialog_message">Play Again?</string>
+    <string name="dialog_title">Good Job! You Did It!</string>
+    <!-- Hint for Text Boxes -->
+
+
+</resources>
